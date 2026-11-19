@@ -1,0 +1,11 @@
+# Build output (rebuild with build_exe.bat; share the zip via a GitHub Release instead)
+dist/
+build/
+*.zip
+
+# Python caches
+__pycache__/
+*.pyc
+
+# Local video files / test output
+*_compressed*.mp4
